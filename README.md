@@ -1,11 +1,11 @@
-# [Flowbite Admin Dashboard](https://flowbite-admin-dashboard.vercel.app) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fthemesberg%2Fflowbite-admin-dashboard&text=Check%20out%20this%20open-source%20admin%20dashboard%20built%20with%20Flowbite%20and%20Tailwind%20CSS)
+# [Flowbite Admin Dashboard](https://verity-dashboard-mhel.vercel.app/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fthemesberg%2Fflowbite-admin-dashboard&text=Check%20out%20this%20open-source%20admin%20dashboard%20built%20with%20Flowbite%20and%20Tailwind%20CSS)
 
 [![version](https://img.shields.io/npm/v/flowbite-admin-dashboard)](https://www.npmjs.com/package/flowbite-admin-dashboard)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![GitHub issues open](https://img.shields.io/github/issues/themesberg/flowbite-admin-dashboard.svg)](https://github.com/themesberg/flowbite-admin-dashboard/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themesberg/flowbite-admin-dashboard.svg)](https://github.com/themesberg/flowbite-admin-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-[![Flowbite Admin Dashboard Live Preview](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/flowbite-admin-dashboard-preview.png)](https://flowbite-admin-dashboard.vercel.app/)
+[![Flowbite Admin Dashboard Live Preview](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/flowbite-admin-dashboard-preview.png)](https://verity-dashboard-mhel.vercel.app//)
 
 This project is a free and open-source UI admin dashboard template built with the components from [Flowbite](https://github.com/themesberg/flowbite) and based on the utility-first [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) framework featuring charts, tables, widgets, CRUD layouts, modals, drawers, and more.
 
@@ -67,25 +67,25 @@ This product is built using the following widely used technologies:
 
 | Dashboard | Stacked Layout | Products (CRUD)
 | --- | --- | --- |
-| [![Dashboard](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/homepage.jpg)](https://flowbite-admin-dashboard.vercel.app/) | [![Stacked Layout](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/stacked.jpg)](https://flowbite-admin-dashboard.vercel.app/layouts/stacked/) | [![Products (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/products-crud.jpg)](https://flowbite-admin-dashboard.vercel.app/crud/products/)
+| [![Dashboard](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/homepage.jpg)](https://verity-dashboard-mhel.vercel.app//) | [![Stacked Layout](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/stacked.jpg)](https://verity-dashboard-mhel.vercel.app//layouts/stacked/) | [![Products (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/products-crud.jpg)](https://verity-dashboard-mhel.vercel.app//crud/products/)
 
 | Users (CRUD) | Settings | Pricing page
 | --- | --- | --- |
-| [![Users (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/users.jpg)](https://flowbite-admin-dashboard.vercel.app/crud/users/) | [![Settings](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/settings.jpg)](https://flowbite-admin-dashboard.vercel.app/settings/) | [![Pricing page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/pricing.jpg)](https://flowbite-admin-dashboard.vercel.app/pages/pricing/)
+| [![Users (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/users.jpg)](https://verity-dashboard-mhel.vercel.app//crud/users/) | [![Settings](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/settings.jpg)](https://verity-dashboard-mhel.vercel.app//settings/) | [![Pricing page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/pricing.jpg)](https://verity-dashboard-mhel.vercel.app//pages/pricing/)
 
 | Login page | Register page | Reset password
 | --- | --- | --- |
-| [![Login page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/login.jpg)](https://flowbite-admin-dashboard.vercel.app/authentication/sign-in/) | [![Register page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/register.jpg)](https://flowbite-admin-dashboard.vercel.app/authentication/sign-up/) | [![Reset password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/reset-password.jpg)](https://flowbite-admin-dashboard.vercel.app/authentication/reset-password/)
+| [![Login page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/login.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/sign-in/) | [![Register page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/register.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/sign-up/) | [![Reset password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/reset-password.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/reset-password/)
 
 | Forgot password | Profile lock | Maintenance page
 | --- | --- | --- |
-| [![Forgot password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/forgot-password.jpg)](https://flowbite-admin-dashboard.vercel.app/authentication/forgot-password/) | [![Profile lock](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/profile-lock.jpg)](https://flowbite-admin-dashboard.vercel.app/authentication/profile-lock/) | [![Maintenance page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/maintenance.jpg)](https://flowbite-admin-dashboard.vercel.app/pages/maintenance/)
+| [![Forgot password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/forgot-password.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/forgot-password/) | [![Profile lock](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/profile-lock.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/profile-lock/) | [![Maintenance page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/maintenance.jpg)](https://verity-dashboard-mhel.vercel.app//pages/maintenance/)
 
 | 404 not found | 500 server error | Playground
 | --- | --- | --- |
-| [![404 not found](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/404.jpg)](https://flowbite-admin-dashboard.vercel.app/pages/404/) | [![500 server error](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/500.jpg)](https://flowbite-admin-dashboard.vercel.app/pages/500/) | [![Playground](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/playground.jpg)](https://flowbite-admin-dashboard.vercel.app/playground/sidebar/)
+| [![404 not found](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/404.jpg)](https://verity-dashboard-mhel.vercel.app//pages/404/) | [![500 server error](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/500.jpg)](https://verity-dashboard-mhel.vercel.app//pages/500/) | [![Playground](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/playground.jpg)](https://verity-dashboard-mhel.vercel.app//playground/sidebar/)
 
--   [Live Preview](https://flowbite-admin-dashboard.vercel.app/)
+-   [Live Preview](https://verity-dashboard-mhel.vercel.app//)
 
 ## Quick start
 
@@ -172,7 +172,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- Live preview: <https://flowbite-admin-dashboard.vercel.app/>
+- Live preview: <https://verity-dashboard-mhel.vercel.app//>
 - Flowbite documentation: <https://flowbite.com/docs/getting-started/introduction/>
 - Tailwind CSS documentation: <https://tailwindcss.com/>
 - License Agreement: <https://flowbite.com/docs/getting-started/license/>
