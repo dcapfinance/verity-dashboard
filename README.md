@@ -5,7 +5,7 @@
 [![GitHub issues open](https://img.shields.io/github/issues/themesberg/flowbite-admin-dashboard.svg)](https://github.com/themesberg/flowbite-admin-dashboard/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themesberg/flowbite-admin-dashboard.svg)](https://github.com/themesberg/flowbite-admin-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-[![Flowbite Admin Dashboard Live Preview](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/flowbite-admin-dashboard-preview.png)](https://verity-dashboard-mhel.vercel.app//)
+[![Flowbite Admin Dashboard Live Preview](https://res.cloudinary.com/dwp1e7vqb/image/upload/v1684734163/Screenshot_2023-05-21_at_10.39.09_PM_obfblx.png)](https://verity-dashboard-mhel.vercel.app/)
 
 This project is a free and open-source UI admin dashboard template built with the components from [Flowbite](https://github.com/themesberg/flowbite) and based on the utility-first [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) framework featuring charts, tables, widgets, CRUD layouts, modals, drawers, and more.
 
@@ -67,25 +67,25 @@ This product is built using the following widely used technologies:
 
 | Dashboard | Stacked Layout | Products (CRUD)
 | --- | --- | --- |
-| [![Dashboard](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/homepage.jpg)](https://verity-dashboard-mhel.vercel.app//) | [![Stacked Layout](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/stacked.jpg)](https://verity-dashboard-mhel.vercel.app//layouts/stacked/) | [![Products (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/products-crud.jpg)](https://verity-dashboard-mhel.vercel.app//crud/products/)
+| [![Dashboard](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/homepage.jpg)](https://verity-dashboard-mhel.vercel.app/) | [![Stacked Layout](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/stacked.jpg)](https://verity-dashboard-mhel.vercel.app/layouts/stacked/) | [![Products (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/products-crud.jpg)](https://verity-dashboard-mhel.vercel.app/crud/products/)
 
 | Users (CRUD) | Settings | Pricing page
 | --- | --- | --- |
-| [![Users (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/users.jpg)](https://verity-dashboard-mhel.vercel.app//crud/users/) | [![Settings](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/settings.jpg)](https://verity-dashboard-mhel.vercel.app//settings/) | [![Pricing page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/pricing.jpg)](https://verity-dashboard-mhel.vercel.app//pages/pricing/)
+| [![Users (CRUD)](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/users.jpg)](https://verity-dashboard-mhel.vercel.app/crud/users/) | [![Settings](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/settings.jpg)](https://verity-dashboard-mhel.vercel.app/settings/) | [![Pricing page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/pricing.jpg)](https://verity-dashboard-mhel.vercel.app/pages/pricing/)
 
 | Login page | Register page | Reset password
 | --- | --- | --- |
-| [![Login page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/login.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/sign-in/) | [![Register page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/register.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/sign-up/) | [![Reset password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/reset-password.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/reset-password/)
+| [![Login page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/login.jpg)](https://verity-dashboard-mhel.vercel.app/authentication/sign-in/) | [![Register page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/register.jpg)](https://verity-dashboard-mhel.vercel.app/authentication/sign-up/) | [![Reset password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/reset-password.jpg)](https://verity-dashboard-mhel.vercel.app/authentication/reset-password/)
 
 | Forgot password | Profile lock | Maintenance page
 | --- | --- | --- |
-| [![Forgot password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/forgot-password.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/forgot-password/) | [![Profile lock](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/profile-lock.jpg)](https://verity-dashboard-mhel.vercel.app//authentication/profile-lock/) | [![Maintenance page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/maintenance.jpg)](https://verity-dashboard-mhel.vercel.app//pages/maintenance/)
+| [![Forgot password](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/forgot-password.jpg)](https://verity-dashboard-mhel.vercel.app/authentication/forgot-password/) | [![Profile lock](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/profile-lock.jpg)](https://verity-dashboard-mhel.vercel.app/authentication/profile-lock/) | [![Maintenance page](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/maintenance.jpg)](https://verity-dashboard-mhel.vercel.app/pages/maintenance/)
 
 | 404 not found | 500 server error | Playground
 | --- | --- | --- |
-| [![404 not found](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/404.jpg)](https://verity-dashboard-mhel.vercel.app//pages/404/) | [![500 server error](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/500.jpg)](https://verity-dashboard-mhel.vercel.app//pages/500/) | [![Playground](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/playground.jpg)](https://verity-dashboard-mhel.vercel.app//playground/sidebar/)
+| [![404 not found](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/404.jpg)](https://verity-dashboard-mhel.vercel.app/pages/404/) | [![500 server error](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/500.jpg)](https://verity-dashboard-mhel.vercel.app/pages/500/) | [![Playground](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/github/playground.jpg)](https://verity-dashboard-mhel.vercel.app/playground/sidebar/)
 
--   [Live Preview](https://verity-dashboard-mhel.vercel.app//)
+-   [Live Preview](https://verity-dashboard-mhel.vercel.app/)
 
 ## Quick start
 
@@ -172,7 +172,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- Live preview: <https://verity-dashboard-mhel.vercel.app//>
+- Live preview: <https://verity-dashboard-mhel.vercel.app/>
 - Flowbite documentation: <https://flowbite.com/docs/getting-started/introduction/>
 - Tailwind CSS documentation: <https://tailwindcss.com/>
 - License Agreement: <https://flowbite.com/docs/getting-started/license/>
